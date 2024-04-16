@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-
+            <asp:Label ID="CodeLabel" runat="server" TextMode="MultiLine"></asp:Label>
 
         </div>
     </form>
